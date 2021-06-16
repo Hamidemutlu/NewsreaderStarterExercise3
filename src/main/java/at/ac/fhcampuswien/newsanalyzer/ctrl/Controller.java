@@ -13,8 +13,6 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-import java.util.stream.Collectors;
-
 public class Controller {
 	// My APIKEY: c944288501dc48888b5a974255d0b318;
 	public static final String APIKEY = "c944288501dc48888b5a974255d0b318";  //TODO add your api key
